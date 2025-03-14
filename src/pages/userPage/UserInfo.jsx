@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { FaEye, FaEyeSlash } from 'react-icons/fa';
-import Header from "../../components/header";
+import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import SuccessMessage from "../../AdminArea/components/SuccessMessage";
 import FailMessage from "../../AdminArea/components/FailMessage";
