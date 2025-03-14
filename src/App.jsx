@@ -7,7 +7,7 @@ import PrivateRoute from './hooks/PrivateRoute';
 import Home from './pages/HomePage/Home';
 
 import ReadingPage from './pages/readingPage/ReadingPage';
-import ReadingQuestion from './pages/readingPage/readingQuestion';
+import ReadingQuestion from './pages/readingPage/ReadingQuestion';
 
 import LessonList from './pages/lessonsPages/LessonList';
 import LessonDetail from './pages/lessonsPages/LessonDetail';
