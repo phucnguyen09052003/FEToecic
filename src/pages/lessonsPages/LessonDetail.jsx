@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import Header from '../../components/header';
+import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 
 import Writing from './Writing'; // Adjust the import path as necessary

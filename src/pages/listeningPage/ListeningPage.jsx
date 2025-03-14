@@ -1,7 +1,7 @@
 import PartItem from "../../components/PartItem";
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import Header from "../../components/header";
+import Header from "../../components/Header";
 import Footer from "../../components/Footer";
 import { useNavigate } from 'react-router-dom';
 import { useUser } from '../../hooks/UserContext';

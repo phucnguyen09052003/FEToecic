@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import Exam from './components/Exam';
-import Header from '../../components/header';
+import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 function ExamList() {
   const [exams, setExams] = useState([]);
